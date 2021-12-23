@@ -1,0 +1,37 @@
+      Time              Sunday              Monday             Tuesday           Wednesday            Thursday              Friday            Saturday
+    0:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    1:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    2:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    3:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    4:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    5:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    6:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    7:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping
+    8:00-             Sleeping            Sleeping            Sleeping             Wake up            Sleeping            Sleeping            Sleeping
+    9:00-             Sleeping             Wake up             Wake up           Free time             Wake up             Wake up            Sleeping
+   10:00-              Wake up           Free time           Free time           Free time           Free time           Free time            Sleeping
+   11:00-            Free time           Free time           Free time           Free time           Free time           Free time             Wake up
+   12:00-            Free time           Free time           Free time           Free time           Free time           Free time           Free time
+   13:00-            Free time           Free time           Free time           Free time             Event 2           Free time           Free time
+   14:00-            Free time           Free time           Free time           Free time             Event 2           Free time           Free time
+   15:00-            Free time           Free time              Task 1           Free time           Free time           Free time           Free time
+   16:00-            Free time           Free time           Free time           Free time           Free time           Free time           Free time
+   17:00-            Free time           Free time           Free time           Free time           Free time             Event 1           Free time
+   18:00-            Free time           Free time           Free time         Go to sleep           Free time             Event 1           Free time
+   19:00-            Free time           Free time           Free time            Sleeping           Free time             Event 1           Free time
+   20:00-          Go to sleep         Go to sleep  Go to sleep/Task 2            Sleeping         Go to sleep           Free time           Free time
+   21:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping           Free time           Free time
+   22:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping         Go to sleep           Free time
+   23:00-             Sleeping            Sleeping            Sleeping            Sleeping            Sleeping            Sleeping         Go to sleep
+
+Tasks: 
+Task 1: go to CVS, due on tuesday at 15:00
+
+Task 2: computer science final project, due on tuesday at 20:00
+
+
+Events: 
+Event 1: birthday party, which is on friday, starting at 17:00, and ending at 19:00
+
+Event 2: doctor appointment, which is on thursday, starting at 13:00, and ending at 14:00
+

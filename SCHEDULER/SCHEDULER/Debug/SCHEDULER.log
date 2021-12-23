@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\thakk\OneDrive - stevens.edu\intro to programming\SCHEDULER\SCHEDULER\Source.cpp(196,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thakk\OneDrive - stevens.edu\intro to programming\SCHEDULER\SCHEDULER\Source.cpp(202,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thakk\OneDrive - stevens.edu\intro to programming\SCHEDULER\SCHEDULER\Source.cpp(214,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thakk\OneDrive - stevens.edu\intro to programming\SCHEDULER\SCHEDULER\Source.cpp(220,22): warning C4018: '<': signed/unsigned mismatch
+  SCHEDULER.vcxproj -> C:\Users\thakk\OneDrive - stevens.edu\intro to programming\SCHEDULER\Debug\SCHEDULER.exe
